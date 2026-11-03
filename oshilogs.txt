@@ -12,7 +12,98 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Reisa =====
-[1]Reisa       |08:43:59 | 02-11-2026| dashboard ERROR: dashboard http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Reisa       |08:55:03 | 03-11-2026| login OK @reisandila | score=0 rank=?
+[1]Reisa       |08:55:03 | 03-11-2026| serverTime=2026-11-03T08:55:03.000Z local=2026-11-03T08:55:03.167Z
+--> [1]Reisa menjalankan: Claim Daily
+[1]Reisa       |08:55:03 | 03-11-2026| daily ERROR: daily http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+--> [1]Reisa menjalankan: Auto All Tasks (10 pending)
+[1]Reisa       |08:55:03 | 03-11-2026| [1/10] 909af7fe (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/reisandila/status/2117540506347496975
+[1]Reisa       |08:55:03 | 03-11-2026| delay 10s...
+[1]Reisa       |08:55:14 | 03-11-2026| [2/10] 7f765e65 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/reisandila/status/2117540671287611394
+[1]Reisa       |08:55:14 | 03-11-2026| delay 10s...
+[1]Reisa       |08:55:24 | 03-11-2026| [3/10] 044a9851 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/reisandila/status/2117540691158029026
+[1]Reisa       |08:55:24 | 03-11-2026| delay 10s...
+[1]Reisa       |08:55:35 | 03-11-2026| [4/10] b7f716d0 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/reisandila/status/2117540595920646422
+[1]Reisa       |08:55:35 | 03-11-2026| delay 10s...
+[1]Reisa       |08:55:45 | 03-11-2026| [5/10] 9d9a53d3 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/reisandila/status/2117540756490114045
+[1]Reisa       |08:55:45 | 03-11-2026| delay 10s...
+[1]Reisa       |08:55:55 | 03-11-2026| [6/10] 8ac1a107 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/reisandila/status/2117540841631364937
+[1]Reisa       |08:55:55 | 03-11-2026| delay 10s...
+[1]Reisa       |08:56:06 | 03-11-2026| [7/10] 7354ea5e (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/reisandila/status/2117540817913062828
+[1]Reisa       |08:56:06 | 03-11-2026| delay 10s...
+[1]Reisa       |08:56:16 | 03-11-2026| [8/10] 07e2b02d (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/reisandila/status/2117540819448102384
+[1]Reisa       |08:56:16 | 03-11-2026| delay 10s...
+[1]Reisa       |08:56:26 | 03-11-2026| [9/10] 55940470 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/reisandila/status/2117540829108817616
+[1]Reisa       |08:56:26 | 03-11-2026| delay 10s...
+[1]Reisa       |08:56:37 | 03-11-2026| [10/10] 50117b4a (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/reisandila/status/2117541161723699580
+[1]Reisa       |08:56:37 | 03-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Reisa       |08:56:37 | 03-11-2026| [1/1] 909af7fe (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/reisandila/status/2117540836025269959
+--> [1]Reisa menjalankan: Watch Anime
+[1]Reisa       |08:56:38 | 03-11-2026| watch ERROR: watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+--> [1]Reisa menjalankan: Read Article
+[1]Reisa       |08:56:39 | 03-11-2026| news: null/34 artikel selesai dibaca
+[1]Reisa       |08:56:40 | 03-11-2026| mint eligibility: {"userId":null,"wallet":{"state":"missing","ready":false},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true
+[1]Reisa       |08:56:45 | 03-11-2026| news oshi-nft-24h-volume-no2-2026-11: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:56:53 | 03-11-2026| news oshi-labs-new-features-2026-11: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:57:02 | 03-11-2026| news smart-pocket-monthly-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:57:10 | 03-11-2026| news oshi-labs-monthly-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:57:18 | 03-11-2026| news road-to-mint-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:57:27 | 03-11-2026| news community-first-update-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:57:36 | 03-11-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:57:43 | 03-11-2026| news smart-pocket-800000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:57:50 | 03-11-2026| news 100-friends-connected-by-what-we-love: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:57:57 | 03-11-2026| news 5c5bca9d-4991-4e23-918b-9b13cd2245c8: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:58:09 | 03-11-2026| news oshi-clash-100000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:58:16 | 03-11-2026| news whitepaper-v2-2: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:58:24 | 03-11-2026| news smart-pocket-referral-rewards: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:58:31 | 03-11-2026| news spaceship-and-studio-friends: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:58:39 | 03-11-2026| news swap-arena-stars-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:58:46 | 03-11-2026| news kagura-airdrop-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:58:54 | 03-11-2026| news oshi-clash-complete-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:59:01 | 03-11-2026| news oshi-clash-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:59:09 | 03-11-2026| news smart-pocket-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:59:19 | 03-11-2026| news oshi-labs-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:59:26 | 03-11-2026| news oshi-news-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:59:34 | 03-11-2026| news yuki-character-design: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:59:41 | 03-11-2026| news smart-pocket-mobile-apps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:59:48 | 03-11-2026| news smart-pocket-read-a-card: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |08:59:56 | 03-11-2026| news start-your-fan-creation: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |09:00:04 | 03-11-2026| news complete-your-first-task: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |09:00:11 | 03-11-2026| news understand-the-rankings: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |09:00:19 | 03-11-2026| news unlock-and-save-icons: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |09:00:26 | 03-11-2026| news start-here: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |09:00:39 | 03-11-2026| news what-is-free-mint: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |09:00:47 | 03-11-2026| news what-is-nft: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |09:01:08 | 03-11-2026| news prepare-your-wallet: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Reisa       |09:01:16 | 03-11-2026| news find-your-anime: complete GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Reisa       |09:01:18 | 03-11-2026| news smart-pocket-first-steps: view GAGAL http=503
+--> [1]Reisa menjalankan: Quiz Anime
+[1]Reisa       |09:01:18 | 03-11-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Reisa menjalankan: Music Missions (realtime, bisa lama!)
+[1]Reisa       |09:01:18 | 03-11-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Reisa       |09:01:18 | 03-11-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Reisa menjalankan: Claim Missions
+[1]Reisa       |09:01:19 | 03-11-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Reisa menjalankan: Check Eligibility
+
+--- eligibility [1]Reisa ---
+  @? | score=0 rank=?
+  tasks    [--------------------] 0/10
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+--> [1]Reisa menjalankan: Read Manga
+[1]Reisa       |09:01:20 | 03-11-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Reisa menjalankan: Get Gift
+[1]Reisa       |09:01:20 | 03-11-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Reisa menjalankan: Setup Profile
+[1]Reisa       |09:01:20 | 03-11-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Reisa menjalankan: Bind Wallet
+[1]Reisa       |09:01:20 | 03-11-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 
 == RINGKASAN ==
-- Reisa: daily=- | tasks OK 0/0
+- Reisa: daily=- | tasks OK 0/11 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
